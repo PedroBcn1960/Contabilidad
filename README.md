@@ -4,7 +4,7 @@
 
 Lo he desarrollado para mi propia empresa, un mayorista de frutas y verduras, y lo pongo a disposición de quien lo quiera usar, de forma gratuita.
 
-▶️ **Vídeo de presentación:** https://youtu.be/D3uIjaXi4Vs
+▶️ **Vídeos:** [presentación](https://youtu.be/D3uIjaXi4Vs) · [descarga e instalación](https://youtu.be/Es6LSAviLTc)
 
 ## Qué hace
 
@@ -36,15 +36,16 @@ Entra en la **[página de descarga](../../releases/latest)** y descarga el fiche
 |---|---|
 | **Contabilidad-…-Instalar.zip** (1,3 GB) | **Instalarlo por primera vez** en un equipo. También sirve para actualizar. |
 | **Contabilidad-…-Actualizar.zip** (unos 70 MB) | **Actualizar** un equipo que ya lo tiene instalado. |
-🛡️ **Analizado con 65 antivirus en VirusTotal: ninguno lo marca como peligroso.** [Ver el análisis](https://www.virustotal.com/gui/file/bdc23e5a9fb6b14c94b04a9c575ebe9a6b04d42e45c3e79bdc4dfac031b79657)
 
 Los dos ficheros «Source code» de cada versión los añade GitHub de forma automática y solo contienen esta página: no hace falta descargarlos.
+
+**Se mantiene al día solo:** una vez instalado, el programa comprueba cada día, la primera vez que se abre, si hay una versión nueva aquí. Si la hay, la avisa en Inicio y, con «Poner al día…», se descarga, se comprueba con su huella y se instala, sin tener que volver a esta página.
 
 ## Cómo se instala
 
 1. Descarga el **.zip** y, cuando termine, **extráelo**: botón derecho sobre el fichero › **«Extraer todo…»** › **«Extraer»**.
 2. Abre la carpeta que sale, **«Instalar Contabilidad»**, y haz doble clic en **«Instalador.exe»**.
-3. Windows puede avisar con **«Windows protegió su PC»**. Es porque el instalador no lleva una firma digital de pago, no porque tenga nada malo: pulsa **«Más información»** y luego **«Ejecutar de todas formas»**.
+3. Windows puede avisar con **«Windows protegió su PC»**. Es porque el instalador no lleva una firma digital de pago, no porque tenga nada malo: pulsa **«Más información»** y luego **«Ejecutar de todas formas»**. Si quieres comprobarlo antes, puedes analizar el «Instalador.exe» en [VirusTotal](https://www.virustotal.com), con decenas de antivirus a la vez.
 4. Acepta el permiso de administrador.
 5. Lee y acepta las **condiciones de uso**, y sigue los pasos del instalador.
 
