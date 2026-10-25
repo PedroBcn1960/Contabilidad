@@ -30,7 +30,7 @@ Lo he desarrollado para mi propia empresa, un mayorista de frutas y verduras, y 
 
 ## Descarga
 
-Ve a **[Releases](../../releases/latest)** (a la derecha de esta página) y descarga el fichero que necesites:
+Entra en la **[página de descarga](../../releases/latest)** y descarga el fichero que necesites:
 
 | Fichero | Para qué |
 |---|---|
