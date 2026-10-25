@@ -36,6 +36,9 @@ Ve a **[Releases](../../releases/latest)** (a la derecha de esta página) y desc
 |---|---|
 | **Contabilidad-…-Instalar.zip** (1,3 GB) | **Instalarlo por primera vez** en un equipo. También sirve para actualizar. |
 | **Contabilidad-…-Actualizar.zip** (unos 70 MB) | **Actualizar** un equipo que ya lo tiene instalado. |
+🛡️ **Analizado con 65 antivirus en VirusTotal: ninguno lo marca como peligroso.** [Ver el análisis](https://www.virustotal.com/gui/file/bdc23e5a9fb6b14c94b04a9c575ebe9a6b04d42e45c3e79bdc4dfac031b79657)
+
+Los dos ficheros «Source code» de cada versión los añade GitHub de forma automática y solo contienen esta página: no hace falta descargarlos.
 
 ## Cómo se instala
 
