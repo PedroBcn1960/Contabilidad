@@ -4,7 +4,7 @@
 
 Lo he desarrollado para mi propia empresa, un mayorista de frutas y verduras, y lo pongo a disposición de quien lo quiera usar, de forma gratuita.
 
-▶️ **Vídeos:** [presentación](https://youtu.be/D3uIjaXi4Vs) · [descarga e instalación](https://youtu.be/Es6LSAviLTc) · [crear la empresa](https://youtu.be/Q2RNfaKSwu8)
+▶️ **Vídeos:** [presentación](https://youtu.be/D3uIjaXi4Vs) · [descarga e instalación](https://youtu.be/Es6LSAviLTc) · [crear la empresa](https://youtu.be/Q2RNfaKSwu8) · [importar los asientos](https://youtu.be/ruOOnBWHGZg)
 
 ## Qué hace
 
