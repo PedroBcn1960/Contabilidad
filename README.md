@@ -34,8 +34,8 @@ Entra en la **[página de descarga](../../releases/latest)** y descarga el fiche
 
 | Fichero | Para qué |
 |---|---|
-| **Contabilidad-…-Instalar.zip** (1,3 GB) | **Instalarlo por primera vez** en un equipo. También sirve para actualizar. |
-| **Contabilidad-…-Actualizar.zip** (unos 70 MB) | **Actualizar** un equipo que ya lo tiene instalado. |
+| **Contabilidad-…-Instalar.zip** (1,23 GB) | **Instalarlo por primera vez** en un equipo. También sirve para actualizar. |
+| **Contabilidad-…-Actualizar.zip** (70,2 MB) | **Actualizar** un equipo que ya lo tiene instalado. |
 
 Los dos ficheros «Source code» de cada versión los añade GitHub de forma automática y solo contienen esta página: no hace falta descargarlos.
 
