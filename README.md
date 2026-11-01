@@ -60,3 +60,5 @@ En los vídeos de la serie se explica todo paso a paso.
 ## Dudas y sugerencias
 
 Déjalas en los comentarios de los vídeos de YouTube: las iré leyendo.
+
+El programa se va mejorando cada poco tiempo: es posible que alguna pantalla u opción haya cambiado un poco, o tenga algo nuevo, respecto a lo que sale en los vídeos. Lo esencial sigue igual. Si ves alguna diferencia, descarga la última versión desde aquí o ponla al día desde el propio programa.
