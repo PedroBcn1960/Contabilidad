@@ -46,8 +46,8 @@ Los dos ficheros «Source code» de cada versión los añade GitHub de forma aut
 ## Cómo se instala
 
 1. Descarga el **.zip** y, cuando termine, **extráelo**: botón derecho sobre el fichero › **«Extraer todo…»** › **«Extraer»**.
-2. Abre la carpeta que sale, **«Instalar Contabilidad»**, y haz doble clic en **«Instalador.exe»**.
-3. Windows puede avisar con **«Windows protegió su PC»**. Es porque el instalador no lleva una firma digital de pago, no porque tenga nada malo: pulsa **«Más información»** y luego **«Ejecutar de todas formas»**. Si quieres comprobarlo antes, puedes analizar el «Instalador.exe» en [VirusTotal](https://www.virustotal.com), con decenas de antivirus a la vez.
+2. Abre la carpeta que sale, **«Instalar Contabilidad»**, y haz doble clic en **«Instalar Contabilidad.exe»**.
+3. Windows puede avisar con **«Windows protegió su PC»**. Es porque el instalador no lleva una firma digital de pago, no porque tenga nada malo: pulsa **«Más información»** y luego **«Ejecutar de todas formas»**. Si quieres comprobarlo antes, puedes analizar el «Instalar Contabilidad.exe» en [VirusTotal](https://www.virustotal.com), con decenas de antivirus a la vez.
 4. Acepta el permiso de administrador.
 5. Lee y acepta las **condiciones de uso**, y sigue los pasos del instalador.
 
