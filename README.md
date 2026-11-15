@@ -21,7 +21,7 @@ Lo he desarrollado para mi propia empresa, un mayorista de frutas y verduras, y 
 
 **Qué no hace:** no emite facturas, no hace las nóminas y no es un asesor fiscal.
 
-**Es completo y es libre:** no es una versión de prueba ni limitada, no tiene licencias, contadores ni fecha de caducidad, y no pide ningún dato para descargarlo.
+**Es completo y es gratuito:** no es una versión de prueba ni limitada, no tiene licencias de pago, contadores ni fecha de caducidad, y no pide ningún dato para descargarlo.
 
 ## Requisitos
 
@@ -55,9 +55,16 @@ En los vídeos de la serie se explica todo paso a paso.
 
 ## Condiciones de uso
 
-- Este programa se ofrece gratis y sin garantía. Su uso es responsabilidad de quien lo instala.
-- No es asesoramiento fiscal: comprueba los resultados con tu gestoría o asesor.
-- ContaPlus es una marca registrada de Sage. Este programa no tiene ninguna relación con Sage ni está respaldado por ella; solo lee las copias de seguridad de ContaPlus, que son propiedad del usuario, para que quien así lo precise pueda traspasar sus datos, y los ficheros de asientos en el formato de traspaso de ContaPlus que generan otros programas de facturación.
+- Gratuito. Contabilidad es un programa gratuito, sin ánimo de lucro, de Pedro José Martínez, que conserva todos sus derechos de autor.
+- Uso libre, sin cambios. Se puede usar sin coste, en casa o en una empresa, en todos los equipos que se quiera. Solo se descarga desde su página oficial en GitHub; no se puede repartir por otros medios.
+- Prohibido copiarlo o modificarlo. No se puede copiar, modificar, desmontar para estudiar su código, vender ni cobrar por él, quitarle el nombre o los avisos, ni presentarlo como propio, en todo ni en parte.
+- Sin garantía ni responsabilidad. El programa se usa en una empresa real y se ha comprobado con varios años de su contabilidad, con resultados correctos. Aun así, se entrega tal cual, sin ninguna garantía: el autor no responde de ningún daño, pérdida de datos, error en las cuentas o sanción que pueda derivarse de su uso. Usarlo, revisar los resultados y hacer copias de seguridad es responsabilidad de quien lo instala.
+- No es asesoramiento fiscal. Las cifras y los informes hay que comprobarlos con la gestoría o el asesor; las declaraciones las presenta el usuario en la Sede electrónica de la AEAT.
+- No emite facturas. Lleva la contabilidad con las facturas que hace el programa de facturación; no es un sistema de facturación sujeto a «Veri*Factu».
+- Los datos, en sus equipos. Los datos son del usuario y se quedan en sus equipos: el programa no los envía a ningún sitio, ni al autor ni a nadie.
+- Conexiones a internet. Solo se conecta a internet para tres cosas: a GitHub, para ver si hay una versión nueva del programa y descargarla; a las páginas públicas de Microsoft, para ver si .NET y SQL Server están al día y, si el usuario lo pide, descargar su actualización; y a la AEAT, solo cuando el usuario lo pide (la comprobación con «Veri*Factu»), con el certificado que él elige y solo para consultar, sin enviar ni cambiar nada. En ninguna de ellas envía datos de la contabilidad.
+- Componentes de otros. Lleva componentes de otros, con sus propias licencias: Microsoft .NET y SQL Server Express (se aceptan al instalarlos), bibliotecas de Microsoft y de la .NET Foundation (licencia MIT) y PdfPig, para leer los PDF (licencia Apache 2.0).
+- ContaPlus y Sage. ContaPlus es una marca registrada de Sage. Este programa no tiene ninguna relación con Sage ni está respaldado por ella; solo lee las copias de seguridad de ContaPlus, que son propiedad del usuario, para que quien así lo precise pueda traspasar sus datos, y los ficheros de asientos en el formato de traspaso de ContaPlus que generan otros programas de facturación.
 
 ## Dudas y sugerencias
 
